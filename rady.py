@@ -26,4 +26,4 @@ elif stastna:
 else:
     print("To je mi líto!")
 
-    print("hello world!")
+    print("hello world!") #tak ještě
